@@ -11,6 +11,7 @@ ca c'est un nouveau projet que je suis entrain de creer avec des etudiant a locl
 
 ## Overview
 
+**Here is a text in Bold** 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta totam cum
 tenetur magni quidem ipsum cumque rerum quod beatae fugit voluptate, debitis
 expedita minus, sit vel rem assumenda placeat repellendus, perferendis
