@@ -6,6 +6,8 @@ ca c'est un nouveau projet que je suis entrain de creer avec des etudiant a locl
 
 - [Overview](#overview)
 - [Project Description](#project-description)
+- [How to Run This Project](#how-to-run-this-project)
+
 
 ## Overview
 
@@ -31,4 +33,10 @@ obcaecati sed alias distinctio minus, asperiores, id sint maxime sequi
 dignissimos vel tempora. Ea ex et aperiam amet eligendi, unde maiores ducimus
 assumenda voluptate porro, ipsum consequatur reprehenderit illum?
 
-#### Sous sous sous titre
+#### How to Run this Project
+
+To run this project, you need to run the folowing command:
+
+```bash
+python --version
+```
