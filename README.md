@@ -8,7 +8,6 @@ ca c'est un nouveau projet que je suis entrain de creer avec des etudiant a locl
 - [Project Description](#project-description)
 - [How to Run This Project](#how-to-run-this-project)
 
-
 ## Overview
 
 **Here is a text in Bold** 
